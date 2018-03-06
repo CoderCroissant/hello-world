@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+I'm Charlie.
+Newbie coder learning about that code life. 
+Let's make some magic !
